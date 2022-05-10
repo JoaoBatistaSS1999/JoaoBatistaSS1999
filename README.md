@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/JoaoBatistaSS1999?tab=repositories">
   <img min-height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=joaobatistass1999&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img min-height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobatistass1999&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img min-height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobatistass1999&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   
@@ -25,11 +25,9 @@
   <div> 
     <a href="https://t.me/JoaoBatistaSS" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
     <a href="https://www.codewars.com/users/Jo%C3%A3o%20Batista" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>   
- <a href="https://discord.gg/NtnAsMaz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jbsouzasantos1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-santos-65219b23a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    
-   ![Snake animation](https://github.com/joaobatistass1999/joaobatistass1999/blob/output/github-contribution-grid-snake.svg)
+ <a href="https://discord.gg/NtnAsMaz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-santos-65219b23a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+   
  
 </div>
 
