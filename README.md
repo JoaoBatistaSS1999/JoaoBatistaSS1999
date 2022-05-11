@@ -1,7 +1,4 @@
 
-🌱 I’m currently learning React, Ethers.js and Typescript
-
-
 <div align="center">
   <a href="https://github.com/JoaoBatistaSS1999?tab=repositories">
   <img height="170em" width="45%" src="https://github-readme-stats.vercel.app/api?username=joaobatistass1999&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
