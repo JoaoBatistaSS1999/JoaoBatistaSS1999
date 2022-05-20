@@ -1,4 +1,4 @@
-Web3 enthusiast and ready to change the future of money
+Web3 enthusiast and ready to change the future of money!
 
 ##
 
